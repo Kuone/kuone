@@ -6,10 +6,10 @@ description: We are a devloper team.
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-#project_one: "First Project"
-#project_one_description: Describe your project!
-#project_one_url: https://github.com/Kuone
-#project_one_icon: location_on
+project_one: "kuone.io"
+project_one_description: Here is kuone's github organization.
+project_one_url: https://github.com/Kuone
+project_one_icon: location_on
 
 #project_two: Second Project
 #project_two_description: Describe your project!
